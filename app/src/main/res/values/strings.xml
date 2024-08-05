@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tasks_MVVM</string>
+    <string name="add_task">Adicionar nova tarefa</string>
+</resources>
